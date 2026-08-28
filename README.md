@@ -3,6 +3,7 @@ name: WobblyLobby
 tagline: Lobby size, custom names, and travel controls for your multiplayer games
 dependencies: [https://github.com/traube-dev/tdToolz]
 thumbnail: thumbnail.png
+icon: icon.svg
 ---
 
 WobblyLobby extends the multiplayer lobby with settings the base game doesn't expose - lobby size, a custom lobby name template, host-side control over rocket/scene travel requests, and quick invite-code buttons on the multiplayer menu.
