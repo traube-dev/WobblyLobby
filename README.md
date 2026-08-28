@@ -1,6 +1,6 @@
 ---
 name: WobblyLobby
-tagline: Customizable lobby size and name, host controls for rocket travel, and a quick invite-code reveal/copy
+tagline: Lobby size, custom names, and travel controls for your multiplayer games
 dependencies: [https://github.com/traube-dev/tdToolz]
 ---
 
