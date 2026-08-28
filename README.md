@@ -12,7 +12,7 @@ WobblyLobby extends the multiplayer lobby with settings the base game doesn't ex
 - Customizable lobby name template - supports `%{Player.Name}` as a placeholder and rich-text color tags
 - Host-only toggle for whether non-host players may request rocket/scene travel at all
 - Host-only toggle to launch travel immediately instead of waiting for every player to accept
-- Reveal/copy buttons added next to the invite code on the multiplayer menu
+- Invite code hidden by default (`******`), with reveal/copy buttons next to it - the base game shows the raw code on screen at all times, which means anyone who can see your screen (streams, screen shares, a photo of your monitor) can join your lobby whenever they want, invited or not. Hiding it by default and only revealing it on click closes that off
 
 ## Requirements
 - Wobbly Life (via Steam)
