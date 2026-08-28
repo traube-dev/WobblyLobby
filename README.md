@@ -19,6 +19,7 @@ WobblyLobby extends the multiplayer lobby with settings the base game doesn't ex
 - Wobbly Life (via Steam)
 - BepInEx 5.x
 - [tdToolz](https://github.com/traube-dev/tdToolz)
+- `HideManagerGameObject = true` under `[Chainloader]` in `BepInEx/config/BepInEx.cfg` - since Wobbly Life v1.1, the game sweeps up and destroys unrecognized objects shortly after the main menu loads, which takes the mod down with it unless this is set. Already included if you use the `+deps` download below; only needs setting by hand if you're dropping the plain download into an existing BepInEx install
 
 ## Installation
 See [traube.dev/docs](https://traube.dev/docs.html) for the general BepInEx + mod install walkthrough.
