@@ -2,7 +2,8 @@
 name: WobblyLobby
 tagline: Lobby size, custom names, and travel controls for your multiplayer games
 dependencies: [https://github.com/traube-dev/tdToolz]
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
+thumbnail_webp: thumbnail.webp
 icon: icon.svg
 ---
 
